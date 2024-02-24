@@ -1,0 +1,29 @@
+.list-item {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  font-family: 'Roboto';
+  width: 100%;
+  margin-bottom: 10px;
+  margin-top: 10px;
+}
+.image-url {
+  height: 100px;
+  width: 200px;
+  border-radius: 8px;
+  margin-right: 10px;
+}
+.flexi2 {
+  display: flex;
+}
+.genre-p {
+  color: #3b82f6;
+}
+.delete-button {
+  margin-left: 10px;
+  background-color: transparent;
+  border-width: 0;
+}
+button {
+  cursor: pointer;
+}
